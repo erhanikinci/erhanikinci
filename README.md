@@ -20,7 +20,7 @@
 
 
 ## Glad to see you here!😊 
-I'm Erhan İKİNCİ, I graduated from two universities. The first one is Physics teacher and second one is Computer Enginner. I'm a Fullstack Mobile Developer 🎓. 
+I'm Erhan İKİNCİ, I graduated from two universities. The first one is Physics Teacher and second one is Computer Engineer. I'm a Fullstack Mobile Developer 🎓. 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to teaching my students physics 👨🏻‍💻.
 I'm currently into Mobile Development 🕸️. Beside's programming, I like doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
