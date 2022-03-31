@@ -11,7 +11,9 @@
 <a href="https://github.com/erhanikinci">
   <img align="left" alt="Erhan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<a href="https://stackoverflow.com/users/18648189/erhan-%c4%b0kinci">
+  <img align="left" alt="Erhan's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
+</a>
 <a href="mailto:erhanikinci61@gmail.com">
   <img align="left" alt="Erhan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
