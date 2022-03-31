@@ -11,7 +11,7 @@
   <img align="left" alt="Erhan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="erhanikinci61@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img align="left" alt="Erhan's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
 </a>
 
