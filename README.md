@@ -33,8 +33,6 @@ I'm currently into Mobile Development 🕸️. Beside's programming, I like doin
 - 🌱 I’m currently learning Full Stack Development 🚀.
 
 
-<br />
-
 ### Show some ❤️ by starring some of the repositories!
 
 ⭐️⭐️⭐️⭐️⭐️ From [erhanikinci](https://github.com/erhanikinci?tab=repositories)
