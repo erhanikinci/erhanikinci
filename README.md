@@ -32,7 +32,7 @@ I'm currently into Mobile Development 🕸️. Beside's programming, I like doin
 
 ### More about me...
 
-- 👀 I’m interested in Python, C#, Java, C++, Kotlin, HTML, Javascript, etc 💻.
+- 👀 I’m interested in Python, C#, Java, C++, Kotlin, HTML, Angular JS, Javascript, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 
 
