@@ -36,7 +36,7 @@ I'm currently into Mobile Development 🕸️. Beside's programming, I like doin
 
 ### More about me...
 
-- 👀 I’m interested in Python, C#, Java, C++, Kotlin, HTML, Angular JS, Javascript, etc 💻.
+- 👀 I’m interested in ASP.NET MVC, ASP.NET WEBFORM, Python, PHP, C#, Java, C++, Kotlin, HTML, CSS, Javascript, Angular JS, JQUERY, SQL, MYSQL  etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 
 
