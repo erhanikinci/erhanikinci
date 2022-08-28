@@ -1,4 +1,4 @@
-# Hi there, I'm Erhan IKINCI 👋
+# Hi there, I'm Erhan İKİNCİ 👋
 - How to reach me 📪
 
 <a href="mailto:erhanikinci61@gmail.com">
