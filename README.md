@@ -27,7 +27,7 @@
 ---
 
 ## Glad to see you here!😊 
-I'm Erhan İKİNCİ, I graduated from two universities. The first one is Physics Teacher and second one is Computer Engineer. I'm a Fullstack Mobile Developer 🎓. 
+I'm Erhan İKİNCİ, I graduated from two universities. The first one is Physics Teacher and second one is Computer Engineer. I'm a Fullstack Web and Mobile Developer 🎓. 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to teaching my students physics 👨🏻‍💻.
 I'm currently into Mobile Development 🕸️. Beside's programming, I like doing supports 🏃⛹️‍♂️🏋🏼‍♂️.
@@ -36,7 +36,18 @@ I'm currently into Mobile Development 🕸️. Beside's programming, I like doin
 
 ### More about me...
 
-- 👀 I’m interested in ASP.NET MVC, ASP.NET WEBFORM, Python, PHP, C#, Java, C++, Kotlin, HTML, CSS, Javascript, Angular JS, JQUERY, SQL, MYSQL  etc 💻.
+- 👀 I’m interested in;
+-  Javascript (⭐️⭐️⭐️⭐️⭐️),
+-  Node.js (⭐️⭐️⭐️⭐️⭐️),
+-  ReactJs (⭐️⭐️⭐️⭐️⭐️),
+-  React Native (⭐️⭐️⭐️⭐️⭐️)
+-  NextJs (⭐️⭐️⭐️⭐️⭐️),
+-  Python(⭐️⭐️⭐️),
+-  PHP(⭐️⭐️⭐️⭐️),
+-  C# (⭐️⭐️⭐️),
+-  Java(⭐️⭐️⭐️),
+-  Kotlin (⭐️⭐️⭐️),
+-  HTML, CSS, JQUERY, SQL, MYSQL  etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 
 
